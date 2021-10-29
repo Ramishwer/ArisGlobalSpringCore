@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 
 @Configuration
-@ComponentScan(basePackages="Maven_Demo.Aop_Aspkt")
+@ComponentScan(basePackages="com.aris.SpringcoreAssign")
 public class Config
 {
 
